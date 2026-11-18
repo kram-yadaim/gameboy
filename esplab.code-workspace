@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../esplab"
+		},
+		{
+			"name": "esplab",
+			"path": "../../../PlatformIO/Projects/esplab"
+		},
+		{
+			"name": "gameboy",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
